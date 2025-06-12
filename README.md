@@ -1,3 +1,3 @@
 # fraud_app
 
-hi here i am creating insurance fraud detection
+hi here i am creating insurance fraud detection app
