@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fraud Prediction</title>
+</head>
+<body>
+    <h2>Enter Claim Details</h2>
+    <form action="/predict" method="post">
+        <label>Total Claim:</label><input name="total_claim_amount"><br>
+        <label>Vehicle Count:</label><input name="vehicle_count"><br>
+        <label>Umbrella Limit:</label><input name="umbrella_limit"><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>
